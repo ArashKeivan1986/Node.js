@@ -1,0 +1,15 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "tutorial nodejs",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hesam mousavi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "nodemon": "^1.9.1"
+  }
+}
